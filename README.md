@@ -1,4 +1,32 @@
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Ignite_React.js_Activity_03">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/Rafa-KozAnd/Ignite_React.js_Activity_03">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Ignite_React.js_Activity_03">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Ignite_React.js_Activity_03">
+  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Ignite_React.js_Activity_03">
+</p>
+
+# Ignite_React.js_Activity_03
+
+React JS activity done with 'Rocketseat' Ignite course. ("Chapter IV, V & VI")
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 💻 Sobre o capítulo IV - Construindo interfaces do futuro, Data fetching e cache local, Autenticação e autorização.
+
+Nesse módulo criaremos a interface de um painel administrativo contendo fluxo de autenticação, dashboard, listagem e cadastro usando Chakra UI no Next.js.
+Nesse módulo vamos utilizar o React Query para melhorar a experiência de uso da nossa aplicação criando uma camada de cache de dados entre o front-end e back-end.
+Nesse módulo vamos entender como criar um processo completo de autenticação, autorização e refresh token dentro do React com Next.js permitindo controlar o acesso à rotas e componentes tanto no client-side quanto no server-side.
+
+## 💻 Sobre o capítulo V - Performando apps com ReactJS, Testes unitários no React.
+
+Uma preocupação comum no desenvolvimento de aplicação web é a performance e, por isso, nesse módulo entenderemos como performar aplicações com React entendendo como funcionam os algoritmos internos da biblioteca e todo fluxo de renderização de componentes.
+Nesse módulo vamos entender como criar testes automatizados de unidade dentro do React garantindo que nossos componentes e páginas continuem funcionando independente de novas manutenções. Tudo isso usando Jest e Testing Library.
+
+## 💻 Sobre o capítulo VI - Estratégias de deply no ReactJS.
+
+Nesse módulo vamos conhecer as principais estratégias de deploy de uma aplicação ReactJS com e sem Next.js utilizando serviçoes como Netlify e Vercel principalmente, mas também apresentando outras opções para projetos mais complexos.
 
 ## Getting Started
 
